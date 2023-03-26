@@ -43,8 +43,8 @@
     ],
     "uniqCompNum": 15,
     "versionPublish": "5.8.4",
-    "favicon": "@PROJECT_PATH@/assets/images/326125828-3450101148582470-5151942841679285802-n_1.jpg",
-    "mbrsiteDomain": "alsck7kme3",
+    "favicon": false,
+    "mbrsiteDomain": "uy6d7jakcr",
     "imageResize": false,
     "usedWebp": false,
     "robotsSwitcher": false,
@@ -64,7 +64,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/326125828-3450101148582470-5151942841679285802-n.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/img-20230326-wa0025.jpg"
       },
       "components": [
         {
